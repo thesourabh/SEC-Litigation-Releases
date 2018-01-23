@@ -1,1 +1,1 @@
-This directory will contain the page for each individual year of litigation releases.
+The pages for the entire listing for each year of litigation releases will be downloaded here.

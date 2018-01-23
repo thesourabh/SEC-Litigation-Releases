@@ -1,1 +1,1 @@
-This directory contains all the cases, sorted into subdirectories for each year.
+All the relevant cases will be downloaded to this directory, sorted into subdirectories named by year.
